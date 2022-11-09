@@ -1,0 +1,51 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/hp/ALL/RAJEEB/Rajeeb/Rajeeb_Github_Repo/web3nontransferabletokens/contracts/LinkDOTSBT.sol": {
+      "lastModificationDate": 1667945916833,
+      "contentHash": "d62e399d1518472818cdad881355c1b9",
+      "sourceName": "contracts/LinkDOTSBT.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "ERC721URIStorage",
+        "IERC165",
+        "IERC721",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "LinkDOTSBT",
+        "Strings"
+      ]
+    }
+  }
+}
